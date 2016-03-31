@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Science! It's a process, a way of thinking about what we observe."
-datePublished: '2016-03-31T20:34:25.668Z'
-dateModified: '2016-03-31T20:34:19.281Z'
+datePublished: '2016-03-31T20:56:37.699Z'
+dateModified: '2016-03-31T20:56:37.113Z'
 author:
   - name: AsapSCIENCE
     url: 'https://www.youtube.com/user/AsapSCIENCE'
