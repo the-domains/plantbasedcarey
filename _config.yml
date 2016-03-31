@@ -1,6 +1,6 @@
 name: PlantBasedCarey
 favicon: null
-layout_spectrum: 0.61665
+layout_spectrum: 0.4956
 typography_spectrum: 0.2392431595362723
 title: Plant Based Carey
 cta:
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7738977810367942
+  brandStrength: 0.1875
   lightness: 0.39741661213338375
   saturation: 0.6082699249964207
   rhythmicContrast: 0.057127542328089476
