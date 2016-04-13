@@ -1,20 +1,4 @@
-name: PlantBasedCarey
-favicon: null
-layout_spectrum: 0.4956
-typography_spectrum: 0.2392431595362723
-title: Plant Based Carey
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -22,8 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.1875
-  lightness: 0.39741661213338375
-  saturation: 0.6082699249964207
-  rhythmicContrast: 0.057127542328089476
+  brandStrength: 0.66791
+  lightness: 0.397416
+  rhythmicContrast: 0.620335
+  saturation: 0.608269
+cta: {}
+layout_spectrum: 0.594216
+name: PlantBasedCarey
+opengraph: {}
 purpose: []
+typography_spectrum: 0.2392431595362723
