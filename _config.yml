@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.2392431595362723
 color:
   brandColors:
     - '#9D2D3C'
@@ -10,9 +10,10 @@ color:
   lightness: 0.397416
   rhythmicContrast: 0.620335
   saturation: 0.608269
-cta: {}
-layout_spectrum: 0.594216
-name: PlantBasedCarey
 opengraph: {}
+layout_spectrum: 0.594216
+analytics: {}
+name: PlantBasedCarey
+cta: {}
+title: Plant Based Whole Food Rocks!
 purpose: []
-typography_spectrum: 0.2392431595362723
